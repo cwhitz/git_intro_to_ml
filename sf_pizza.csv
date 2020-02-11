@@ -1,0 +1,212 @@
+﻿location_id,ownership_name,business_name,address,city,state,zipcode,business_start_date,business_end_date,location_start_date,location_end_date,supervisor_district,neighborhood,slice_cost,revenue
+0138351-01-002,Blondies Pizza Inc,Blondies Pizza,63 Powell Street,San Francisco,CA,94102,12/1/1982,5/31/2016,1/2/1996,5/31/2016,3,Tenderloin,5,135000
+0144323-01-001,Kalogerias Spiros A-Panagiotis,Viva Pizza Restaurant,318 Columbus Ave,San Francisco,CA,94133,12/1/1983,3/10/2017,6/3/2003,3/10/2017,3,North Beach,3.75,298000
+0161137-01-001,Northern Cal Holding Corp,Golden Boy Pizza,4531 Mission St,San Francisco,CA,94112,11/1/1986,6/30/2019,11/1/1986,4/24/2015,11,Excelsior,7,301000
+0322356-01-001,Baltazar Maria E & Gustavo,Go Getters Pizza,69 Gough St,San Francisco,CA,94102,1/5/1999,2/29/2016,1/5/1999,2/29/2016,5,Hayes Valley,4.75,297000
+0337372-01-001,Paradise Pizza Llc,Paradise Pizza Llc,393 West Portal Ave,San Francisco,CA,94127,1/2/1998,11/15/2016,1/2/1998,11/15/2016,7,West of Twin Peaks,3.25,116000
+0347191-01-001,Awadalla A M/awadalla M M,Irving Pizza,1825 Irving St,San Francisco,CA,94122,7/1/2001,8/31/2017,7/1/2001,8/31/2017,4,Sunset/Parkside,3.25,269000
+0359876-01-001,Jaber Naif Talal,Seniores Pizza,2415 19th Ave,San Francisco,CA,94116,10/1/2002,3/27/2019,10/1/2002,3/27/2019,4,Sunset/Parkside,5,210000
+0373304-01-001,Tang John Tee/ngo Phuong Yen,Geary Street Bella Pizza,4124 Geary Blvd,San Francisco,CA,94118,1/12/2004,1/31/2019,9/21/2010,1/31/2019,1,Inner Richmond,5,221000
+0373741-03-001,Awadalla Awadalla M,Irving Pizza #3,3244 Scott St,San Francisco,CA,94123,3/1/2007,2/19/2018,3/1/2007,3/7/2012,2,Marina,4.25,462000
+0373741-04-001,Awadalla Awadalla M,Sf Hole In The Wall Pizza,3244 Scott St,San Francisco,CA,94123,3/1/2007,2/19/2018,3/8/2012,2/19/2018,,,5.25,451000
+0412782-01-001,Piccolo Italia Pizza,Piccolo Italia Pizza,799 O'farrell Street,San Francisco,CA,94109,1/1/2007,5/31/2017,1/1/2007,11/30/2011,6,Tenderloin,5.5,420000
+0412782-02-001,Piccolo Italia Pizza,Piccolo Italia Pizza,799 Ofarrell St,San Francisco,CA,94109,1/1/2007,5/31/2017,11/30/2011,5/31/2017,6,Tenderloin,7,392000
+0412782-03-001,Piccolo Italia Pizza,Piccolo Italia Pizza,799 O'farrell St,San Francisco,CA,94109,1/1/2007,5/31/2017,12/2/2011,5/31/2017,6,Tenderloin,6.5,478000
+0422466-01-001,R & E Corporation,Sparky's Pizza & Diner,242 Church St,San Francisco,CA,94114,10/1/2007,2/9/2016,10/1/2007,2/9/2016,8,Castro/Upper Market,3.25,310000
+0440665-01-001,Awadalla Omar A,Nizarios Pizza #4,555 Broadway,San Francisco,CA,94133,7/15/2009,6/20/2019,7/15/2009,6/20/2019,3,Chinatown,6,277000
+0454502-01-001,Beru Sameer F,Taraval Pizza,1115 Taraval St,San Francisco,CA,94116,12/1/2010,7/1/2019,12/1/2010,7/1/2019,4,Sunset/Parkside,6.25,318000
+0460040-01-001,Awadalla Hamza M,Irving Pizza,928 Geary St,San Francisco,CA,94109,7/1/2011,4/27/2018,7/1/2011,4/27/2018,6,Tenderloin,6.25,131000
+0473977-01-001,Khan Najim,Marina Round Table Pizza,1503 Northpoint St,San Francisco,CA,94123,10/29/2012,12/31/2017,10/29/2012,12/31/2017,,,7,392000
+0481495-01-001,Gialogo Oliver S,Ingleside Pizza,4097 19th Ave,San Francisco,CA,94132,8/1/2013,7/27/2018,8/1/2013,7/27/2018,11,Oceanview/Merced/Ingleside,6.25,386000
+0482590-01-001,Hou Yao Leang,Supreme Pizza,3348 18th St,San Francisco,CA,94110,9/1/2013,12/31/2016,9/1/2013,12/31/2016,9,Mission,7,246000
+0484716-01-001,Mikyboom Llc,Presidio Pizza Company,1862 Divisadero,San Francisco,CA,94115,11/1/2013,7/31/2018,11/1/2013,7/31/2018,,,6,417000
+0489784-01-001,Chellihi Inc,Veraci Pizza,32 6th St,San Francisco,CA,94103,4/15/2014,5/1/2019,4/15/2014,5/1/2019,,,3.5,358000
+0490186-03-001,Ma Ruirong,Midnight Pizza,37 Arleta Ave,San Francisco,CA,94134,6/2/2014,12/1/2018,6/2/2014,12/1/2018,,,5,396000
+0913300-02-001,Awadalla Adnan Mhamad,Sf Pizza,1270 Mission St,San Francisco,CA,94103,2/1/2005,3/31/2017,2/1/2005,3/31/2017,6,South of Market,4.75,205000
+1004296-08-141,Awadalla Yahya,Mustafio's Pizza,1116 Polk St,San Francisco,CA,94109,8/1/2014,3/19/2018,8/1/2014,3/19/2018,,,7,353000
+1026801-04-151,Northern Cal Holding Corp,Golden Boy Wholesale Pizza,4531 Mission St,San Francisco,CA,94112,11/1/1986,6/30/2019,4/24/2015,6/30/2019,,,5,277000
+1086812-08-161,Red Smart Llc,Katani Pizza,2077 Hayes St,San Francisco,CA,94117,8/4/2016,8/31/2019,8/4/2016,8/31/2019,,,4.75,380000
+1040102-09-151,Alattiyat Raed M,Maysoon's Pizza,829 Geary St,San Francisco,CA,94109,9/21/2015,4/11/2019,9/21/2015,4/11/2019,,,3.75,406000
+1047811-12-151,Cercatore Fabrizio,Passione Pizza,2 Marina Blvd,San Francisco,CA,94115,12/30/2015,11/1/2016,12/30/2015,11/1/2016,,,5,392000
+1047813-12-151,Cercatore Fabrizio,Passione Pizza,1 Avenue Of The Palms,San Francisco,CA,94130,12/30/2015,11/1/2016,12/30/2015,11/1/2016,6,Treasure Island,6.5,358000
+1059049-03-161,Mozeb Bassam Ahmed,New York Pizza Kitchen,127 Eddy St,San Francisco,CA,94102,3/16/2016,3/14/2017,3/16/2016,3/14/2017,,,4.5,149000
+1059284-03-161,Chicks And Love Llc,Chick And Love Pizza Patio,1701 Folsom St,San Francisco,CA,95103,3/8/2016,4/2/2018,3/8/2016,4/2/2018,6,Mission,4.5,438000
+1123623-10-161,Mass F & B,Paradise Pizza & Pasta,393 West Portal Ave,San Francisco,CA,94127,10/12/2016,8/30/2018,10/12/2016,8/30/2018,,,5.25,420000
+1124580-10-161,Volume Services Inc,5639-Derby Grill-Tony's Pizza Stand,At&t Rm 2103 24 Willie Mays Plaza Promenade Level 2,San Francisco,CA,94107,4/1/1993,12/31/2017,4/1/1993,12/31/2017,,,4.75,166000
+1124915-10-161,Volume Services Inc,82036-Doggie Diner/garlic Fries/tony's Pizza,At&t Rm 1144 24 Willie Mays Plaza Lower Centerfield,San Francisco,CA,94107,4/1/1993,12/31/2017,4/1/1993,12/31/2017,,,3.75,336000
+1124934-10-161,Volume Services Inc,89201-Tony's Pizza Stand,At&t Rm 5314 24 Willie Mays Plaza View Level 4,San Francisco,CA,94107,4/1/1993,12/31/2017,4/1/1993,12/31/2017,,,6.5,174000
+1136206-02-171,Dough Boyz Inc,Munchies Pizza,1463 Haight St,San Francisco,CA,94117,2/14/2017,5/30/2017,2/14/2017,5/30/2017,,,7,198000
+1144881-05-171,Alley Restaurant Group Llc,Alley Pizza And Kabobs,1550 California St,San Francisco,CA,94109,5/1/2017,5/10/2017,5/1/2017,5/10/2017,3,Nob Hill,6.25,276000
+1157733-08-171,Awadalla Awadalla M,Sf Hole In The Wall Pizza,1825 Irving St,San Francisco,CA,94122,3/1/2007,2/19/2018,8/10/2017,2/19/2018,,,6.75,482000
+1195866-07-181,Ingleside Pizza Inc,Ingleside Pizza,4097 19th Ave,San Francisco,CA,94132,7/16/2018,7/27/2018,7/16/2018,7/27/2018,,,3.75,332000
+1197213-08-181,Kimberly Gonzalez-Campos,Nahua Pizza,2351 Mission St,San Francisco,CA,94110,4/25/2018,6/30/2019,8/6/2018,6/30/2019,9,Mission,6,498000
+0079908-01-001,Little Joes Pizzeria Restaurant,Little Joes Pizza,5006 Mission St,San Francisco,CA,94112,11/27/1973,,11/27/1973,,11,Outer Mission,5,205000
+0104709-04-001,Goat Hill Inc,Goat Hill Pizza,171 Stillman St,San Francisco,CA,94107,11/14/1975,,4/15/2009,,6,South of Market,6.25,399000
+0104709-05-001,Goat Hill Inc,Goat Hill Pizza,170 West Portal Ave,San Francisco,CA,94127,11/14/1975,,8/1/2012,,7,West of Twin Peaks,4.25,269000
+0149795-01-001,Indelicato Inc,Gaspare's Pizza House & Rest,5546 Geary Blvd,San Francisco,CA,94121,2/6/1985,,2/6/1985,1/16/2019,1,Outer Richmond,5.25,440000
+0157249-01-001,C P C Restaurant Inc,Calzones Pizza Cucina,430 Columbus Ave,San Francisco,CA,94133,6/20/1986,,6/20/1986,,3,North Beach,4.5,334000
+0157491-31-001,Hanson Luisa,Luisa Pizza And Pasta,1550 California St,San Francisco,CA,94116,7/28/1983,,5/15/2014,8/1/2017,,,5,350000
+0166507-01-001,Heng Sambath,Bus Stop Pizza 1,256 Divisadero St,San Francisco,CA,94117,6/12/1987,,6/12/1987,,5,Haight Ashbury,3,202000
+0183117-02-002,"North Beach Pizza, Inc.",North Beach Pizza Too!,1462 Grant Ave,San Francisco,CA,94133,1/1/1989,,5/1/2009,,3,North Beach,6.25,395000
+0190699-01-001,Sotiropulos Panagiotis,Bravo Pizza,5145 Mission St,San Francisco,CA,94112,8/25/1989,6/23/2019,8/25/1989,6/23/2019,,,5.5,377000
+0195602-03-001,California Pizza Kitchen Inc,California Pizza Kitchen,53 3rd St,San Francisco,CA,94103,3/8/1990,,3/12/2007,,6,Financial District/South Beach,4.75,215000
+0201032-01-001,Eskandarian Einollah,Victors Pizza,1411 Polk St,San Francisco,CA,94109,11/26/1990,,11/26/1990,,3,Nob Hill,3,404000
+0308058-01-001,Nathan Randall & Weinstein S,Paulines Pizza,260 Valencia St,San Francisco,CA,94103,7/24/1997,,7/24/1997,,8,Mission,3,175000
+0308068-03-001,Pac Pizza Llc,Pizza Hut,3349 Mission St,San Francisco,CA,94110,8/7/1997,,8/7/1997,,9,Bernal Heights,4,482000
+0308068-04-001,Pac Pizza Llc,Pizza Hut,728 Geary St,San Francisco,CA,94109,8/7/1997,,8/7/1997,,6,Tenderloin,4.25,158000
+0312888-02-001,Rivieccio Vince Jr,Vince's Pizza House & Catering,2018 24th Ave,San Francisco,CA,94116,1/15/1998,,2/20/2004,,4,Sunset/Parkside,4.75,170000
+0320174-01-001,Sol Pizza Inc,North Beach Pizza,800 Stanyan St,San Francisco,CA,94117,7/1/1995,,7/1/1995,,5,Haight Ashbury,6.75,112000
+0343971-02-001,Sensoria Llc,Dna Pizza,371 11th St,San Francisco,CA,94103,1/1/2000,,3/8/2011,,6,South of Market,6.5,217000
+0349110-01-001,Uncle Vito's Pizza Llc,Uncle Vito's Pizza Llc,700 Bush St,San Francisco,CA,94108,9/25/2001,,9/25/2001,,3,Nob Hill,5,426000
+0351245-01-001,Pizza Foods Inc,Pizza Foods Inc,801 Van Ness Ave,San Francisco,CA,94109,1/10/2002,,1/10/2002,,5,Western Addition,5.25,266000
+0351245-02-001,Pizza Foods Inc,Round Table Pizza,801 Van Ness Ave,San Francisco,CA,94109,1/10/2002,,5/30/2012,,5,Western Addition,3.75,118000
+0352255-01-003,Mont Blanc Pizzerias,Round Table Pizza,737 Portola Dr,San Francisco,CA,94127,12/31/2010,,1/1/2011,,7,West of Twin Peaks,6.5,188000
+0358007-01-001,Kyi Aung,Deja Vu Pizza & Pasta,3227 16th St,San Francisco,CA,94103,7/30/2002,,7/30/2002,,8,Mission,6.25,147000
+0358153-01-001,Serrano's Pizza Inc,Serrano's Pizza Inc,3274 21st St,San Francisco,CA,94110,7/1/2002,,7/1/2002,,9,Mission,6,211000
+0365488-01-001,Bay Foods Inc,Round Table Pizza,3567 Geary Blvd,San Francisco,CA,94118,4/4/2003,,4/4/2003,,1,Lone Mountain/USF,6.25,379000
+0373843-01-001,"Haystack Pizza Restaurant, Inc",Haystack Pizza Restaurant,3881 24th St,San Francisco,CA,94114,1/1/1999,,1/1/1999,,8,Noe Valley,7,426000
+0378303-02-001,Ganchan Inc,Extreme Pizza,3911 Alemany Blvd Ste 1001,San Francisco,CA,94132,7/1/2004,,7/1/2004,,7,Oceanview/Merced/Ingleside,5.25,470000
+0378984-02-001,Axiom Development Corp,The Village Market & Pizza,750 Font Blvd,San Francisco,CA,94132,7/12/2004,,7/12/2004,,7,Lakeshore,7,348000
+0380393-01-001,Little Star Pizza Llc,Little Star Pizza,846 Divisadero St,San Francisco,CA,94117,8/25/2004,,1/1/2005,,5,Western Addition,4,321000
+0381606-01-001,Gonzalez Jose Antonio S,Venice Pizza And Restaurant,5228 Mission St,San Francisco,CA,94112,11/1/2004,,11/1/2004,,11,Outer Mission,5.25,444000
+0392215-01-001,Layers Llc,Patxis Chicago Pizza,3318 Fillmore St,San Francisco,CA,94123,8/20/2005,,10/1/2009,,2,Marina,5.25,295000
+0392215-01-002,Layers Llc,Patxis Chicago Pizza,511 Hayes St,San Francisco,CA,94102,8/20/2005,,8/20/2005,,5,Hayes Valley,7,398000
+0392215-01-003,Layers Llc,Patxis Chicago Pizza,822 Irving St,San Francisco,CA,94122,8/20/2005,,10/24/2011,2/5/2014,5,Inner Sunset,7,430000
+0392215-02-001,Layers Llc,Patxis Pizza,4042 24th St,San Francisco,CA,94114,8/20/2005,,1/1/2010,2/5/2014,8,Noe Valley,5.75,279000
+0400765-01-001,Pequena Estrella Llc,Little Star Pizza Valencia,400 Valencia St,San Francisco,CA,94103,9/15/2006,,9/15/2006,,8,Mission,5.5,201000
+0404697-01-001,Pizza Place Llc,The Pizza Place On Noriega,3901 Noriega St,San Francisco,CA,94122,3/1/2007,,3/1/2007,,4,Sunset/Parkside,6,133000
+0414313-01-001,Tgt Ii Inc,Pizza Orgasmica,3157 Fillmore St,San Francisco,CA,94123,4/1/2007,,4/1/2007,,,,3.75,384000
+0414313-02-001,Tgt Ii Inc,Pizza Orgasmica & Brewing Co,3145 Fillmore St,San Francisco,CA,94123,4/1/2007,,12/1/2011,2/28/2015,,,6.5,183000
+0423501-01-001,Ferat Inc,Zozan Slice Pizza,1535 Haight St,San Francisco,CA,94117,12/1/2007,,12/1/2007,7/15/2009,,,6.5,218000
+0423501-02-001,Ferat Inc,Big Slice Pizza,1535 Haight St,San Francisco,CA,94117,12/1/2007,,1/1/2009,11/30/2016,,,4.75,309000
+0423832-01-001,Ibrahim Yusuf R,Pizza Zone N Grill,178 Valencia St,San Francisco,CA,94103,12/6/2007,,12/6/2007,,8,Mission,6,129000
+0426551-01-001,Fahim Shafik Pizza Zone Inc,Fahim Shafik Pizza Zone Inc,555 Beach St,San Francisco,CA,94133,2/1/2008,,2/1/2008,,,,4.25,198000
+0426551-02-001,Fahim Shafik Pizza Zone Inc,Pizza Zone,555 Beach St,San Francisco,CA,94133,2/1/2008,,9/11/2013,,,,5.25,433000
+0429330-01-001,Shri Dwarkadheesh Enterprises,Little Caesars Pizza,955 Geneva Ave,San Francisco,CA,94112,6/1/2008,,6/1/2008,,11,Excelsior,6.75,353000
+1021337-03-151,Bp Fund A Llc,Blaze Pizza,157 Stonestown Galleria,San Francisco,CA,94132,3/3/2015,,3/3/2015,4/26/2019,,,4.25,374000
+0430716-01-001,Alhakim Husni S,Milan Pizza,606 Geary St,San Francisco,CA,94102,8/1/2008,,8/1/2008,,3,Tenderloin,5.25,452000
+0435397-01-001,Godoy Juan A,Naples Pizzarella,1192 Geneva Ave,San Francisco,CA,94112,1/1/2009,,1/1/2009,,11,Excelsior,4.75,289000
+0436011-01-001,Int'l School Of Pizza Inc,Tony's Pizza Napoletana,1570 Stockton St,San Francisco,CA,94133,2/10/2009,,2/10/2009,,3,North Beach,4,181000
+0436011-02-001,Int'l School Of Pizza Inc,International School Of Pizza,1556 Stockton St,San Francisco,CA,94133,2/10/2009,,7/15/2010,6/1/2016,,,6.75,398000
+0437966-03-001,Ma Teddy,Panhandle Pizza,2077 Hayes St,San Francisco,CA,94117,4/18/2009,,6/1/2014,9/20/2016,5,Lone Mountain/USF,5.75,133000
+0439272-01-001,Zantes Pizza Inc,Zantes Pizza Inc,3489 Mission St,San Francisco,CA,94110,5/22/2009,,5/22/2009,,9,Bernal Heights,6,346000
+0440915-01-001,San Francisco Pizza Co Llc,Zpizza,833 Mission St,San Francisco,CA,94103,7/30/2009,,9/21/2011,,6,South of Market,5.25,217000
+0441364-01-001,Dd Restaurant Group Inc,North Beach Pizza,Pier 39 Pier 39 211,San Francisco,CA,94133,8/1/2009,,8/1/2009,,,,6.75,297000
+0441436-01-001,Sito Incorporated,Papa John's Pizza,69 Cambon Dr,San Francisco,CA,94132,9/1/2009,,9/1/2009,9/15/2019,,,4,327000
+0441436-02-001,Sito Incorporated,Papa John's Pizza,969 Sutter St,San Francisco,CA,94109,9/1/2009,,3/1/2013,,3,Nob Hill,4.25,333000
+0442358-01-001,Brothers Pizza Sunset Inc,Brothers Pizza,3627 Taraval St,San Francisco,CA,94116,9/14/2009,,9/14/2009,,4,Sunset/Parkside,4.75,270000
+0444520-01-001,Donairos Pizza Llc,Donairos Pizza,6905 Geary Blvd,San Francisco,CA,94121,1/1/2010,,1/1/2010,,1,Outer Richmond,6.5,358000
+0451047-01-001,Una Pizza Napoletana Llc,Una Pizza Napoletana Llc,1501 Howard St,San Francisco,CA,94103,7/1/2010,,7/1/2010,,6,Mission,3,468000
+0453413-01-001,Bhagat Inc,Golden Gate Pizza&indian Resta,4038 Judah St,San Francisco,CA,94122,7/1/2010,,7/1/2010,,4,Sunset/Parkside,4,171000
+0455083-01-001,Casey's Pizza Llc,Casey's Pizza Llc,1528 Baker St,San Francisco,CA,94115,1/3/2011,,1/3/2011,,2,Pacific Heights,4.75,488000
+0455266-01-001,Napolitana Inc,Nizario's Pizza #2,4077 18th St,San Francisco,CA,94114,1/1/2011,,1/1/2011,,8,Castro/Upper Market,4.25,391000
+0455267-01-001,Nizarios Inc,Nizario's Pizza,3840 Geary Blvd,San Francisco,CA,94118,1/1/2011,,1/1/2011,,,,6.25,418000
+0460685-01-001,Paris Pizza Llc,Pizzaria,448 Broadway,San Francisco,CA,94133,7/1/2011,,7/1/2011,,3,North Beach,4.5,233000
+0465421-01-001,Houk Kristin A,All Good Pizza,1408 Hudson Ave,San Francisco,CA,94124,1/10/2012,,1/10/2012,,10,Bayview Hunters Point,4.5,139000
+0466436-01-001,Awadalla Yaser A,Nizarios Pizza Valencia,535 Valencia St,San Francisco,CA,94110,3/1/2012,,3/1/2012,,,,6.5,274000
+0467833-01-001,Sehili Malika,Marina Pizza & Pasta,2139 Lombard St,San Francisco,CA,94123,4/1/2012,,4/1/2012,,2,Marina,6.75,454000
+0469292-01-001,Carmel Pizza Llc,Carmel Pizza Company,2826 Jones St,San Francisco,CA,94133,6/1/2012,,6/1/2012,,,,4.25,369000
+0474577-01-002,Fresco Pizza & Grill Inc,Fresco Pizza & Grill,1338 Polk St,San Francisco,CA,94109,9/1/2010,,1/7/2013,,3,Nob Hill,6,390000
+0477302-01-001,Garden State Pizza Inc,The Pizza Shop,3104 24th St,San Francisco,CA,94110,3/8/2013,,3/8/2013,,9,Mission,6.75,371000
+0479183-01-001,Parma Food Services Inc,Pronto Pizza,798 Eddy St,San Francisco,CA,94109,5/8/2013,,5/8/2013,,,,6.25,455000
+0479420-01-001,Sill Valley Inc,Nizarios Pizza Sfsu,1650 Holloway Ave Sb109,San Francisco,CA,94132,6/1/2013,,6/1/2013,,7,Lakeshore,7,118000
+0482528-01-001,Knead Me Inc,Pizza Express,813 Cortland Ave,San Francisco,CA,94110,8/21/2013,,8/21/2013,,9,Bernal Heights,6,132000
+0483346-01-001,Iqbal Mohammad/bilal Choudhery,All Nite Pizza & Foods,5155 3rd St,San Francisco,CA,94124,10/1/2013,,10/1/2013,,,,3.25,412000
+0483799-01-001,Firetrail Pizza Llc,Firetrail Pizza,428 11th St,San Francisco,CA,94103,10/11/2013,,10/11/2013,,6,Mission,5.75,491000
+0485847-01-001,Pizzahackers Backyard Llc,Pizzahacker,3299 Mission St,San Francisco,CA,94110,11/14/2013,,11/14/2013,,,,5.75,408000
+0486336-01-001,Long Bridge Pizza Company Llc,Long Bridge Pizza Company,2347 3rd St,San Francisco,CA,94107,1/22/2014,,1/22/2014,,10,Potrero Hill,4.5,318000
+0926346-02-001,1800 Fillmore Corp,Pizza Inferno Restaurant & Bar,1800 Fillmore St,San Francisco,CA,94115,1/12/1994,,2/2/1994,,5,Pacific Heights,4.5,399000
+0926346-03-001,1800 Fillmore Corp,Pizza Inferno,1800 Fillmore St,San Francisco,CA,94115,1/12/1994,,2/2/1994,,5,Pacific Heights,6,486000
+0926346-04-001,1800 Fillmore Corp,Inferno A Pizza Bar,1800 Fillmore St,San Francisco,CA,94115,1/12/1994,,2/2/1994,,5,Pacific Heights,6,259000
+0926346-05-001,1800 Fillmore Corp,Inferno Pizza & Bar,1800 Fillmore St,San Francisco,CA,94115,1/12/1994,,2/2/1994,,5,Pacific Heights,6.5,148000
+0932279-01-001,O.o.c. Inc.,Extreme Pizza,1730 Fillmore St,San Francisco,CA,94115,7/5/1994,,7/5/1994,,5,Japantown,6,432000
+0932279-02-001,O.o.c. Inc.,Extreme Pizza,1062 Folsom St,San Francisco,CA,94103,7/5/1994,,10/17/2007,,6,South of Market,4.5,171000
+0932279-02-002,O.o.c. Inc.,Extreme Pizza,1980 Union St,San Francisco,CA,94123,7/5/1994,,1/1/2002,,,,5,241000
+0932279-03-001,O.o.c. Inc.,Extreme Pizza,1056 Folsom St,San Francisco,CA,94103,7/5/1994,,6/1/1999,,6,South of Market,6.75,334000
+0935704-01-001,Sofar Pizza Inc,North Beach Pizza Express,3054 Taraval St,San Francisco,CA,94116,12/1/1994,,12/1/1994,,4,Sunset/Parkside,5.25,285000
+0948053-01-001,Taz Inc,Marcello's Pizza,420 Castro St,San Francisco,CA,94114,1/3/1996,,1/3/1996,,8,Castro/Upper Market,3.75,303000
+1002671-07-141,Digneo Michael V,Round Table Pizza,4523 Mission St,San Francisco,CA,94112,7/24/2014,,7/24/2014,,,,5.25,396000
+1003541-08-141,Shalitim Llc,Mythic Pizza,551 Haight St,San Francisco,CA,94117,8/1/2014,,8/1/2014,,,,5.5,142000
+1005096-08-141,Jaber Joseph Dahoud,Primo Pizza,1064 Divisadero,San Francisco,CA,94115,8/25/2014,,8/25/2014,,,,3.25,439000
+1006975-09-141,Kayseki Llc,Oz Pizza,508 Castro St,San Francisco,CA,94114,7/16/2014,,9/10/2014,,,,4.25,426000
+1008084-09-141,Verrotta Llc,Cesco Pizza,135 4th St #Fc6,San Francisco,CA,94103,1/7/2008,,9/24/2014,,,,5.25,127000
+1011493-11-141,Darwish Isam/shoman Nedal,Soma Pizza,483 3rd St,San Francisco,CA,94107,11/7/2014,,11/7/2014,,6,Financial District/South Beach,6.25,104000
+1012393-11-141,Maay Rodolfo,City Pizza & Yucatan Food,294 Turk St,San Francisco,CA,94102,11/17/2014,,11/17/2014,2/13/2018,6,Tenderloin,6,296000
+1012773-11-141,Arguello Aragon Camilo A,Gio's Pizza Restaurant,3515 Mission St,San Francisco,CA,94110,11/25/2014,,11/25/2014,2/26/2015,,,5,447000
+1015729-01-151,Jersey Pizza Llc,Jersey Pizza Llc,145 2nd St,San Francisco,CA,94105,1/8/2015,,1/8/2015,,6,Financial District/South Beach,3,287000
+1017596-01-151,Twin Peaks Pizza And Pasta Inc,Twin Peaks Pizza And Pasta,1681 Church St,San Francisco,CA,94131,1/30/2015,,1/30/2015,,,,3.25,447000
+1019846-02-151,Seniores Pizza 2014 Inc,Seniores Pizza,559 Divisadero St,San Francisco,CA,94117,2/24/2015,,2/24/2015,12/31/2019,,,7,236000
+1020781-02-151,Arguello Aragon Camilo A,Cecilia's Pizza & Restaurant,3515 Mission St,San Francisco,CA,94110,11/25/2014,,2/27/2015,,,,6.75,239000
+1021456-03-151,City Pizza And Burger Inc,City Pizza And Burger Inc,464 Broadway St,San Francisco,CA,94133,3/1/2015,,3/1/2015,4/1/2018,,,6.75,117000
+1023510-03-151,Volare Inc,Volare Pizza And Restaurant,456 Haight St,San Francisco,CA,94117,3/20/2015,12/31/2019,3/20/2015,12/31/2019,,,3.25,471000
+1024125-03-151,Dabit Jihad N,Pizza Joint,3088 Balboa St,San Francisco,CA,94121,3/27/2015,,3/27/2015,,,,3.25,423000
+1024600-04-151,Sados Corporation,Chico's Pizza,131 6th St,San Francisco,CA,94103,4/1/2015,,4/1/2015,,,,3.25,123000
+1030399-06-151,Bellissimo Pizza Inc,Bellissimo Pizza,920 Sutter St,San Francisco,CA,94109,6/8/2015,,6/8/2015,,,,5.5,483000
+1032109-07-151,Adem Munir A & Amir Mensur,Bruno's Pizza & Restaurant,1375 Fillmore St,San Francisco,CA,94115,7/1/2015,,7/1/2015,,,,5.25,445000
+1033367-07-151,Bp Fund A Llc,Blaze Pizza Fast-Fire'd,3251 20th Ave #157,San Francisco,CA,94132,3/3/2015,,7/13/2015,,,,3.5,291000
+1034246-07-151,Sensoria Llc,Dna Pizza,917 Folsom St,San Francisco,CA,94107,1/1/2000,,5/7/2015,7/31/2017,,,6.25,411000
+1034842-07-151,Pellizzaro Antonio,Pizza Casa Tua,324 Arkansas St,San Francisco,CA,94107,7/1/2015,,7/1/2015,,10,Potrero Hill,5.75,492000
+1035607-08-151,Rava Food Inc,Powell Street Pizza And Pasta,239 Powell St,San Francisco,CA,94102,1/1/2005,,8/3/2015,12/31/2018,,,6,304000
+1044903-11-151,Sados Corporation,Chico's Pizza,468 Ellis St,San Francisco,CA,94109,4/1/2015,,11/18/2015,,,,5.25,429000
+1047812-12-151,Cercatore Fabrizio,Passione Pizza,3251 20th Ave,San Francisco,CA,94132,12/30/2015,11/1/2016,12/30/2015,11/1/2016,,,4.5,284000
+1049613-01-161,Adem Munir A & Amir Mensur,Golden State Pizza Grill & Sports Bar,1375 Fillmore St,San Francisco,CA,94115,7/1/2015,,1/19/2016,7/2/2018,,,6.25,155000
+1050156-01-161,Prokopos Llc,North Beach Pizza,4787 Mission St,San Francisco,CA,94112,1/21/2016,,1/21/2016,,11,Excelsior,5.5,109000
+1071179-05-161,Rtr Food Concepts Inc,Take One Pizza,1028 Mission St,San Francisco,CA,94103,7/1/2013,,5/17/2016,,,,7,126000
+1072930-05-161,A Pizza Shop Corporation Inc,Pizza Zone And Grill,4404 3rd St,San Francisco,CA,94124,5/25/2016,,5/25/2016,,10,Bayview Hunters Point,5.75,214000
+1106623-08-161,Bba Foods Inc,Nobhill Pizza & Shawerma,1534 California St,San Francisco,CA,94109,8/30/2016,,8/30/2016,,3,Nob Hill,6.75,269000
+1124548-10-161,Salmau Llc,Sasha's Pizza,1361 Church St,San Francisco,CA,94114,10/1/2016,,10/1/2016,10/24/2016,8,Noe Valley,3.75,296000
+1139660-03-171,Halal Pizza Kitchen Inc,New York Pizza Kitchen,127 Eddy St,San Francisco,CA,94102,3/14/2017,,3/14/2017,,,,7,425000
+1147206-05-171,Casey's Pizza Llc,Casey's Pizza,1170 4th St,San Francisco,CA,94158,1/3/2011,,5/21/2017,,6,Mission Bay,5.5,314000
+1156486-08-171,Piccolo Italia Pizza,Piccolo Italia Pizza,799 O'farrell St,San Francisco,CA,94109,6/1/2017,,6/1/2017,,,,4.25,238000
+1158221-08-171,Shree Yago Baraha Inc,Himalayan Pizza & Momo,288 Golden Gate Ave,San Francisco,CA,94102,8/15/2017,,8/15/2017,,,,5.25,263000
+1159936-09-171,Jose A. Lara,Anton's Pizza,1196 Folsom St,San Francisco,CA,94103,9/5/2017,,9/5/2017,,,,5,344000
+1163233-10-171,Soma Slice Llc,Pizza Squared,855 Brannan St Ste B3,San Francisco,CA,94103,10/6/2017,,10/6/2017,10/15/2018,6,South of Market,6.25,122000
+1163257-10-171,Herpe Harry A,Nob Hill Pizza,750 Folsom St,San Francisco,CA,94105,10/1/2017,,10/1/2017,,,,7,275000
+1174294-01-181,Deys Llc,Marina Round Table Pizza,1503 North Point St,San Francisco,CA,94123,1/1/2018,,1/1/2018,,2,Marina,3.75,103000
+1182539-03-181,Nasir Sheikh,"Mustafio""s Pizza",1116 Polk St,San Francisco,CA,94109,3/19/2018,,3/19/2018,,,,5.25,430000
+1185303-04-181,Mohamad Albawayah,Irving Pizza,928 Geary St,San Francisco,CA,94109,4/17/2018,10/31/2019,4/17/2018,10/31/2019,,,4.75,129000
+1185717-04-181,City Pizza And Burger Inc,Pizza Flirt,464 Broadway St,San Francisco,CA,94133,3/1/2015,,4/20/2018,2/4/2019,,,5.75,369000
+1190580-06-181,5 Friends Foods Inc,Gochees Pizza,2 Embarcadero Ctr Unit B6,San Francisco,CA,94111,6/1/2018,,6/1/2018,,,,4.75,263000
+1190933-06-181,11th Street Pizza Inc,Seniores Pizza,320 11th St,San Francisco,CA,94103,5/14/2018,,5/14/2018,,6,Mission,6,171000
+1192163-06-181,Nijem & Khalaf Inc,Presidio Pizza Company,1862 Divisadero St,San Francisco,CA,94115,6/17/2018,,6/17/2018,,2,Pacific Heights,4.25,297000
+1192947-06-181,Bon Appetit Management Co,94649 Doggie Diner/garlic Fries/tony's Pizza,24 Willie Mays Plaza 1144,San Francisco,CA,94107,7/1/1987,,2/8/2018,,,,5.75,245000
+1192949-06-181,Bon Appetit Management Co,94654 Derby Grill/tony's Pizza,24 Willie Mays Plaza 2103,San Francisco,CA,94107,7/1/1987,,2/8/2018,,,,3.75,232000
+1192953-06-181,Bon Appetit Management Co,94665 Tony's Pizza,24 Willie Mays Plaza 5314,San Francisco,CA,94107,7/1/1987,,2/8/2018,,,,3,221000
+1194808-07-181,Ingleside Pizza Inc,Ingleside Pizza,4097 19th Ave,San Francisco,CA,94132,7/10/2018,,7/10/2018,,,,7,470000
+1195683-07-181,Firetrail Pizza Llc,Firetrail Pizza,1 Treasure Island Rd,San Francisco,CA,94130,10/11/2013,,7/1/2018,9/30/2018,,,4,477000
+1199198-08-181,Soma Slice Llc,Pizza Squared,885 Brannan St,San Francisco,CA,94103,10/6/2017,,6/1/2018,,6,South of Market,4.5,265000
+1199865-09-181,Yrs1 Inc,Abe's Pizza,940 Market St,San Francisco,CA,94102,5/1/2019,,8/17/2018,,,,5,289000
+1202023-10-181,Golden State Pizza And Grill Inc,Golden State Pizza And Grill,2414 San Bruno,Sf,CA,94134,10/1/2018,,10/1/2018,,,,4.5,471000
+1203368-10-181,1150 Howard Partners Lp,Cellarmaker House Of Pizza,3193 Mission St,San Francisco,CA,94110,2/1/2013,,10/18/2018,,,,6,443000
+1206225-11-181,1150 Howard Partners,Cellarmaker House Of Pizza,3193 Mission St,San Francisco,CA,94110,10/1/2018,,10/1/2018,,,,4.75,232000
+1211553-01-191,Indelicato Inc,Gaspare's Pizza House & Italian Restaurant,5546 Geary Blvd,San Francisco,CA,94121,2/6/1985,,2/6/1985,2/1/2019,1,Outer Richmond,5.5,275000
+1211699-02-191,Indelicato Inc,Gaspare's Pizza House And Restaurant,5546 Geary Blvd,San Francisco,CA,94121,2/6/1985,,2/1/2019,,1,Outer Richmond,6.5,253000
+1211893-02-191,City Pizza And Burger Inc,Cannapizza,464 Broadway St,San Francisco,CA,94133,3/1/2015,,2/4/2019,,,,5,445000
+1213323-02-191,Annabellaz-3244 Inc.,Sf Hole In The Wall Pizza,3244 Scott St,San Francisco,CA,94123,2/19/2019,,2/19/2019,,2,Marina,6.75,345000
+1217142-03-191,"Seniore's Pizza S.f, Inc",Seniores Pizza,2415 19th Ave,San Francisco,CA,94116,3/27/2019,,3/27/2019,,4,Sunset/Parkside,4.75,449000
+1218008-04-191,Tassili Pizza Inc,Modena Pizza & Ice Cream,32 6th St,San Francisco,CA,94103,1/1/2019,,4/4/2019,,,,4,158000
+1218520-04-191,Mideteranian Pizza Llc,Orientalia Pizza,829 Geary St,San Francisco,CA,94109,4/11/2019,,4/11/2019,,,,3.5,136000
+1219055-04-191,"Family Style Bay Area K1, Llc",Gabriella's Pizza,3242 22nd St,San Francisco,CA,94110,4/16/2019,,4/16/2019,,,,4.25,283000
+1219077-04-191,"Fsk 15 San Franciso 1, Llc",Lorenzo's Of New York Pizza,2109 Polk St,San Francisco,CA,94109,4/17/2019,,4/17/2019,,,,6.75,400000
+1219438-04-191,"1100 Group, Llc",The Star By Little Star Pizza,475 Sixth St,San Francisco,CA,94103,4/22/2019,4/22/2019,4/22/2019,4/22/2019,,,4,212000
+1221197-05-191,Kourosh Razinejad,Strada Pizza,1115 Taraval St,San Francisco,CA,94116,5/9/2019,,5/9/2019,,4,Sunset/Parkside,6.25,343000
+1222641-05-191,Elias Jweinat,Nicos Sicilia Pizza,709 Offarell St,San Francisco,CA,94109,5/22/2019,,5/22/2019,,,,6.75,241000
+1225936-06-191,Bon Appetit Management Co,Chase Club Pizza,1 Warriors Way Event Lvl South West,San Francisco,CA,94158,7/1/1987,,5/28/2019,,,,6,184000
+1225962-06-191,Bon Appetit Management Co,Vending Out Of Pizza 300,1 Warriors Way Lvl 300 North,San Francisco,CA,94158,7/1/1987,,5/28/2019,,,,3.5,123000
+1225963-06-191,Bon Appetit Management Co,Tony's Pizza North 300,1 Warriors Way Lvl 300 North,San Francisco,CA,94158,7/1/1987,,5/28/2019,,,,6.75,114000
+1226016-06-191,Bon Appetit Management Co,Tony's Pizza South 300,1 Warriors Way Lvl 300 West,San Francisco,CA,94158,7/1/1987,,5/28/2019,,,,5,233000
+1226034-06-191,Bon Appetit Management Co,Tony's Pizza Pepsi Bar 500,1 Warriors Way Lvl 500 North,San Francisco,CA,94158,7/1/1987,,5/28/2019,,,,5.5,426000
+1227855-07-191,Nahua Pizza Llc,Nahua Pizza,103 Horne Ave,San Francisco,CA,94124,7/1/2019,,7/1/2019,,,,4,294000
+1228632-07-191,The Fat Pie Inc,"Anton""s Pizza",1196 Folsom St,San Francisco,CA,94103,7/22/2019,,7/22/2019,,,,6,263000
+1229404-07-191,The Fat Pie Inc,Anton's Pizza & Burgers,1196 Folsom St,San Francisco,CA,94103,7/22/2019,,7/30/2019,,,,4.25,319000
+1230363-08-191,Firetrail Pizza Llc,Firetrail Pizza #2,1 Mobile Caterers,San Francisco,CA,,10/11/2013,,7/11/2019,,,,5,325000
+1232524-08-191,Vienna Enterprises Inc,North Beach Pizza,4787 Mission St,San Francisco,CA,94112,6/17/2019,,6/17/2019,,,,4,493000
+1234180-09-191,5 Friends Foods Inc,Gochees Pizza - Katani Pizza,2077 Hayes St,San Francisco,CA,94117,8/20/2019,,9/18/2019,,,,4.25,243000
+1234359-09-191,Candlestick Pizza Llc,Candlestick Pizza,1 Warriors Way,San Francisco,CA,94158,9/20/2019,,9/20/2019,,,,6.75,188000
+1234729-09-191,Peter Prokopos,Bravo Pizza,5145 Mission St,San Francisco,CA,94112,9/24/2019,,9/24/2019,,11,Excelsior,5.75,375000
+1235301-10-191,Candlestick Pizza Llc,Candlestick Pizza,7 Warriors Way  Ste 208,San Francisco,CA,94158,9/20/2019,,9/20/2019,,,,5.5,271000
+1236453-10-191,Mideteranian Pizza Llc,Palermo Pizza & Sandwiches,829 Geary St,San Francisco,CA,94109,4/11/2019,,10/17/2019,,,,6.25,335000
+1236688-10-191,Carlos Zarate Ambrocio,Hayes Pizza,2077 Hayes St,San Francisco,CA,94117,10/16/2019,12/4/2019,10/16/2019,12/4/2019,,,3.5,140000
+1237371-10-191,2 E &M Inc,Irving Pizza,928 Geary St,San Francisco,CA,94109,10/29/2019,,10/29/2019,,6,Tenderloin,4.25,387000
+1239765-12-191,"Vivihsu, Inc",Extreme Pizza,3911 Alemany Blvd 1001,San Francisco,CA,94132,12/3/2019,,12/3/2019,,7,Oceanview/Merced/Ingleside,5,184000
+1239862-12-191,Jmc Foods,Hayes Pizza,2077 Hayes St.,San Francisco,CA,94117,12/4/2019,,12/4/2019,,5,Lone Mountain/USF,4.25,482000
